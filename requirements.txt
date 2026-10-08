@@ -1,0 +1,4 @@
+streamlit
+```eof
+
+I've created the `requirements.txt` file containing the Streamlit dependency you need. Let me know if you need any further assistance!
